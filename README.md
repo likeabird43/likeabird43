@@ -1,5 +1,11 @@
 # Hi, I'm Janet Lee 😄
 
+Audio-focused professional with over 7 years of experience in music production, voice processing, and content creation across the U.S. and Korea.
+
+Skilled in enhancing vocal clarity and evaluating audio quality, with hands-on experience in annotation and real-world audio data workflows.
+
+Combines creative audio expertise with a growing background in data analysis and machine learning.
+
 <!--
 **likeabird43/likeabird43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,19 +50,18 @@ I work at the intersection of **sound and data** — from recording and processi
 
 ### 🎙️ Voice & Audio
 
-**[Voice Sample Processing & Noise Reduction]**
+**[Voice Sample Processing & Noise Reduction](https://on.soundcloud.com/1UWNG9bGV0KeUbGpDV)**
 - Professional setting-recorded voice samples processed using iZotope RX 11 + Logic Pro
 - Before/After comparison demonstrating noise reduction while preserving natural and pleasing vocal tone
 - Tools: Logic Pro X, iZotope RX 11, Waves plugins, Fab Filter Plugins
 
-🇺🇸 English Voice Samples — Noise reduction & vocal clarity demo (https://on.soundcloud.com/1UWNG9bGV0KeUbGpDV)
-🇰🇷 Korean Voice Recording/Mixing Samples — Meditation audio recording & production
+[🇰🇷Korean Voice Recording/Mixing Samples — Meditation audio recording & production](https://www.youtube.com/watch?v=0zY-m1OUKY8&list=PLSAMsMHjGEeM3vhpblLdEwDO5iGYOlkhx)
 
 ---
 **[Music Production & Mixing](https://on.soundcloud.com/1UWNG9bGV0KeUbGpDV)**
 
-Mixing and arrangement work across various genres
-Tools: Logic Pro, iZotope RX, Waves Plugins
+Recording, mixing, orchestraion, and arrangement work across various genres
+Tools: Logic Pro, Pro Tools, Ableton Live 
 
 
 ---
