@@ -43,8 +43,9 @@ Combines creative audio expertise with a growing background in data analysis and
 ### 🎙️ Voice & Audio
 
 **[Voice Sample Processing & Noise Reduction](https://soundcloud.com/janet-726080253/sets/voice-sample-processing-noise)**
-- Mobile-recorded voice samples processed using iZotope RX 11 + Logic Pro
+- Professionally recorded voice samples using a condenser microphone, processed using iZotope RX 11 + Logic Pro + multiple audio plugins
 - Before/After comparison demonstrating noise reduction while preserving natural and pleasing vocal tone
+- Successfully passed STT (Speech-to-Text) recognition accuracy test on processed samples
 - Tools: Logic Pro X, iZotope RX 11, Waves Plugins, FabFilter Plugins
 
 🇰🇷 [Korean Voice Recording & Mixing — Meditation audio recording & production](https://www.youtube.com/watch?v=0zY-m1OUKY8&list=PLSAMsMHjGEeM3vhpblLdEwDO5iGYOlkhx)
@@ -53,6 +54,7 @@ Combines creative audio expertise with a growing background in data analysis and
 
 **[Music Production & Mixing](https://soundcloud.com/janet-726080253)**
 - Recording, mixing, orchestration, and arrangement work across various genres
+- Achievement: Reached iTunes World Music Chart No.2 / Netflix USA No.1 Show / Streamed over 1 billion views for the Disney show music content  
 - Tools: Logic Pro, Pro Tools, Ableton Live
 
 ---
@@ -62,6 +64,7 @@ Combines creative audio expertise with a growing background in data analysis and
 - Directly recorded and edited 100+ voice samples
 - Extracted acoustic features (pitch, energy, speech rate) using Librosa
 - Compared Rule-based inference vs Random Forest under low-data conditions
+- Rule-based inference outperformed Random Forest under low-data conditions, demonstrating domain knowledge in acoustic feature engineering
 - Tools: Python, Librosa, scikit-learn
 
 ---
