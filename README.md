@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Janet Lee 😄
 
 <!--
 **likeabird43/likeabird43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm [Your Name] 🎙️
-
 > Musician · Audio Engineer · Data Analyst
 
 I work at the intersection of **sound and data** — from recording and processing voice audio to building ML pipelines that analyze acoustic features.
@@ -26,11 +24,11 @@ I work at the intersection of **sound and data** — from recording and processi
 
 ## 🎧 About Me
 
-- 🎵 **Currently**: Musician & Independent Audio Engineer
+- 🎵 **Currently**: Musician & Independent Speech/Audio Researcher 
 - 🔬 **Interests**: Voice processing, audio ML, sound design, AI audio tools
-- 🌍 **Based in**: Seoul, South Korea
+- 🌍 **Based in**: Seoul, South Korea / Los Angeles, USA 
 - 🗣️ **OPIc**: AL (Advanced Low)
-- 📬 **Open to**: Audio annotation, AI training data, freelance audio work
+- 📬 **Open to**: AI/ML projects, Audio annotation, AI training data
 
 ---
 
