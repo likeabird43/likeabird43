@@ -34,8 +34,8 @@ I work at the intersection of **sound and data** — from recording and processi
 
 ## 🔧 How To Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janetleemusic/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janetlee.works@gmail.com)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/yourprofile)
 
 ---
@@ -44,10 +44,20 @@ I work at the intersection of **sound and data** — from recording and processi
 
 ### 🎙️ Voice & Audio
 
-**[Voice Sample Processing & Noise Reduction](https://soundcloud.com/yourprofile)**
-- Mobile-recorded voice samples processed using iZotope RX 11 + Logic Pro
-- Before/After comparison demonstrating noise reduction while preserving natural vocal tone
-- Tools: iZotope RX 11, Logic Pro, Waves NS1, Pro Q, Pro DS
+**[Voice Sample Processing & Noise Reduction]**
+- Professional setting-recorded voice samples processed using iZotope RX 11 + Logic Pro
+- Before/After comparison demonstrating noise reduction while preserving natural and pleasing vocal tone
+- Tools: Logic Pro X, iZotope RX 11, Waves plugins, Fab Filter Plugins
+
+🇺🇸 English Voice Samples — Noise reduction & vocal clarity demo (https://on.soundcloud.com/1UWNG9bGV0KeUbGpDV)
+🇰🇷 Korean Voice Recording/Mixing Samples — Meditation audio recording & production
+
+---
+**[Music Production & Mixing](https://on.soundcloud.com/1UWNG9bGV0KeUbGpDV)**
+
+Mixing and arrangement work across various genres
+Tools: Logic Pro, iZotope RX, Waves Plugins
+
 
 ---
 
@@ -62,7 +72,7 @@ I work at the intersection of **sound and data** — from recording and processi
 
 ### 🔍 AI & Data
 
-**[Auditing AI-Generated ML Pipelines](https://github.com/likeabird43)**
+**[Auditing AI-Generated ML Pipelines](https://github.com/likeabird43/ai-generated-mlpipeline-audit)**
 - Investigated reliability of AI-generated data science workflows under noisy conditions
 - Identified evaluation leakage, label instability, and distribution shift as key failure modes
 - Audited ChatGPT and Claude outputs across K-pop and healthcare datasets
@@ -73,10 +83,10 @@ I work at the intersection of **sound and data** — from recording and processi
 ## 🛠️ Skills & Tools
 
 **Audio**
-`iZotope RX` `Logic Pro` `Waves Plugins` `Pro Tools` `Audacity`
+`Logic Pro` `iZotope RX`, `Waves Plugins` `Pro Tools` `Audacity`
 
 **Data & ML**
 `Python` `Librosa` `scikit-learn` `pandas` `NumPy`
 
 **Other**
-`Audio annotation` `Voice recording` `Noise reduction` `Feature extraction`
+`Audio annotation` `Voice recording & Mixing` `Noise reduction` `Feature extraction`
