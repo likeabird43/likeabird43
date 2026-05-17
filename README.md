@@ -59,13 +59,17 @@ Combines creative audio expertise with a growing background in data analysis and
 
 ---
 
-**[Voice Emotion Analysis — Baseline-Relative Acoustic Features](https://github.com/likeabird43/voice)**
-- Built a voice emotion classification system (happy / stressed / tired)
-- Directly recorded and edited 100+ voice samples
-- Extracted acoustic features (pitch, energy, speech rate) using Librosa
-- Compared Rule-based inference vs Random Forest under low-data conditions
-- Rule-based inference outperformed Random Forest under low-data conditions, demonstrating domain knowledge in acoustic feature engineering
-- Tools: Python, Librosa, scikit-learn
+**[Voice Emotion Analysis — Baseline-Relative Acoustic Features](https://github.com/likeabird43/Voice-Emotion-Analysis)**
+- Built a personalized voice mood inference pipeline 
+  achieving F1=0.816 on real-world noisy recordings
+- Directly recorded 114 utterances in noisy environments 
+  (cafe, outdoor) using Samsung Galaxy + Logic Pro + Waves NS1
+- Designed custom acoustic indices VTS (Vocal Tension Score) 
+  and VOI (Vocal Openness Index), verified statistically 
+  from perceptual observations (p<0.05)
+- Implemented 5-band spectral analysis, identifying 
+  stressed vs happy frequency signatures (6k-8kHz p=0.003)
+- Tools: Python, librosa, scikit-learn, Logic Pro, Waves NS1
 
 ---
 
