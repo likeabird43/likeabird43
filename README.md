@@ -34,7 +34,8 @@ Combines creative audio expertise with a growing background in data analysis and
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janetleemusic/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janetlee.works@gmail.com)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/janet-726080253)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLSAMsMHjGEeP__YR53DjcZnFJgojvAG0F&si=Xa8qTpXcE0R--9KI)
+[![IMDb](https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/name/nm12833128/)
 
 ---
 
@@ -53,24 +54,19 @@ Combines creative audio expertise with a growing background in data analysis and
 ---
 
 **[Music Production & Mixing](https://youtube.com/playlist?list=PLSAMsMHjGEeP__YR53DjcZnFJgojvAG0F&si=Xa8qTpXcE0R--9KI)**
-- Mixing, orchestration, audio editing, and arrangement across commercial and original projects
-- Credits include Disney (Big City Greens — music editing & orchestration), Joachim Horsley (orchestration & audio editing), and original composition
-- Additional production credits: Warner Bros., HBO (uncredited)
+- Recording, mixing, mastering, orchestration, audio editing, and composition across commercial and original projects
+- Production work includes Disney — Big City Greens (music editing & orchestration, uncredited), Joachim Horsley (orchestration & audio editing), and original composition
+- Additional production credits: HBO "Gordita Chronicles", Warner Bros. "Batman: Soul of the Dragon", ABC "The Baker and the Beauty" 
 - Achievement: Reached iTunes World Music Chart No.2 / Netflix USA No.1 Show / Disney content streamed over 1 billion views
 - Tools: Logic Pro, Pro Tools, Ableton Live, iZotope RX 11, Waves Plugins
 
 ---
 
 **[Voice Emotion Analysis — Baseline-Relative Acoustic Features](https://github.com/likeabird43/Voice-Emotion-Analysis)**
-- Built a personalized voice mood inference pipeline 
-  achieving F1=0.816 on real-world noisy recordings
-- Directly recorded 114 utterances in noisy environments 
-  (cafe, outdoor) using Samsung Galaxy + Logic Pro + Waves NS1
-- Designed custom acoustic indices VTS (Vocal Tension Score) 
-  and VOI (Vocal Openness Index), verified statistically 
-  from perceptual observations (p<0.05)
-- Implemented 5-band spectral analysis, identifying 
-  stressed vs happy frequency signatures (6k-8kHz p=0.003)
+- Built a personalized voice mood inference pipeline achieving F1=0.816 on real-world noisy recordings
+- Directly recorded 114 utterances in noisy environments (cafe, outdoor) using Samsung Galaxy + Logic Pro + Waves NS1
+- Designed custom acoustic indices VTS (Vocal Tension Score) and VOI (Vocal Openness Index), verified statistically from perceptual observations (p<0.05)
+- Implemented 5-band spectral analysis, identifying stressed vs happy frequency signatures (6k-8kHz p=0.003)
 - Tools: Python, librosa, scikit-learn, Logic Pro, Waves NS1
 
 ---
