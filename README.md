@@ -52,10 +52,12 @@ Combines creative audio expertise with a growing background in data analysis and
 
 ---
 
-**[Music Production & Mixing](https://soundcloud.com/janet-726080253)**
-- Recording, mixing, orchestration, and arrangement work across various genres
-- Achievement: Reached iTunes World Music Chart No.2 / Netflix USA No.1 Show / Streamed over 1 billion views for the Disney show music content  
-- Tools: Logic Pro, Pro Tools, Ableton Live
+**[Music Production & Mixing](https://youtube.com/playlist?list=PLSAMsMHjGEeP__YR53DjcZnFJgojvAG0F&si=Xa8qTpXcE0R--9KI)**
+- Mixing, orchestration, audio editing, and arrangement across commercial and original projects
+- Credits include Disney (Big City Greens — music editing & orchestration), Joachim Horsley (orchestration & audio editing), and original composition
+- Additional production credits: Warner Bros., HBO (uncredited)
+- Achievement: Reached iTunes World Music Chart No.2 / Netflix USA No.1 Show / Disney content streamed over 1 billion views
+- Tools: Logic Pro, Pro Tools, Ableton Live, iZotope RX 11, Waves Plugins
 
 ---
 
