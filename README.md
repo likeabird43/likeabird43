@@ -25,7 +25,6 @@ Combines creative audio expertise with a growing background in data analysis and
 - 🎵 **Currently**: Musician & Independent Speech/Audio Researcher
 - 🔬 **Interests**: Voice processing, audio ML, sound design, AI audio tools
 - 🌍 **Based in**: Seoul, South Korea / Los Angeles, USA
-- 🗣️ **OPIc**: AL (Advanced Low)
 - 📬 **Open to**: AI/ML projects, Audio annotation, AI training data
 
 ---
