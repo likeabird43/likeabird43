@@ -49,7 +49,7 @@ Combines creative audio expertise with a growing background in data analysis and
 - Successfully passed STT (Speech-to-Text) recognition accuracy test on processed samples
 - Tools: Logic Pro X, iZotope RX 11, Waves Plugins, FabFilter Plugins
 
-🇰🇷 [Korean Voice Recording & Mixing — Meditation audio recording & production](https://www.youtube.com/watch?v=0zY-m1OUKY8&list=PLSAMsMHjGEeM3vhpblLdEwDO5iGYOlkhx)
+🇰🇷 [Korean Voice Recording & Mixing — Meditation audio recording & production](https://youtube.com/playlist?list=PLSAMsMHjGEeM3vhpblLdEwDO5iGYOlkhx&si=Rw2UKe1J8QEfIJHY)
 
 ---
 
