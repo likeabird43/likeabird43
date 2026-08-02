@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 # Hi, I'm Janet Lee 😄
 
 > Audio Engineer · Music Producer · Audio Researcher
+> Specializing in audio editing, recording, mixing, speech/audio annotation, and AI-assisted audio workflows.
 
 Audio-focused professional with over 7 years of experience in music production, voice processing, and content creation across the U.S. and Korea.
-Skilled in audio editing, vocal enhancement, audio quality evaluation, and speech/audio annotation, with hands-on experience in annotation and real-world audio data workflows.
+Skilled in audio editing & engineering, vocal enhancement, audio quality evaluation, and speech/audio annotation, with hands-on experience in annotation and real-world audio data workflows.
 Combines creative audio expertise with a growing background in data analysis and machine learning.
 
 ---
@@ -24,7 +25,7 @@ Combines creative audio expertise with a growing background in data analysis and
 
 - 🎵 **Currently**: Composer, Audio Engineer & Independent Speech/Audio Researcher
 - 🔬 **Interests**: Voice processing, audio ML, sound design, AI audio tools
-- 🌍 **Based in**: Seoul, South Korea / Los Angeles, USA
+- 🌍 **Based in**: Seoul, South Korea | Los Angeles, CA
 - 📬 **Open to**: AI/ML projects, Audio annotation, AI training data
 
 ---
