@@ -12,17 +12,17 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Janet Lee 😄
 
-> Musician · Audio Researcher · Data Analyst
+> Audio Engineer · Music Producer · Audio Researcher
 
 Audio-focused professional with over 7 years of experience in music production, voice processing, and content creation across the U.S. and Korea.
-Skilled in enhancing vocal clarity and evaluating audio quality, with hands-on experience in annotation and real-world audio data workflows.
+Skilled in audio editing, vocal enhancement, audio quality evaluation, and speech/audio annotation, with hands-on experience in annotation and real-world audio data workflows.
 Combines creative audio expertise with a growing background in data analysis and machine learning.
 
 ---
 
 ## 🎧 About Me
 
-- 🎵 **Currently**: Musician & Independent Speech/Audio Researcher
+- 🎵 **Currently**: Composer, Audio Engineer & Independent Speech/Audio Researcher
 - 🔬 **Interests**: Voice processing, audio ML, sound design, AI audio tools
 - 🌍 **Based in**: Seoul, South Korea / Los Angeles, USA
 - 📬 **Open to**: AI/ML projects, Audio annotation, AI training data
@@ -42,21 +42,24 @@ Combines creative audio expertise with a growing background in data analysis and
 
 ### 🎙️ Voice & Audio
 
-**[Voice Sample Processing & Noise Reduction](https://soundcloud.com/janet-726080253/sets/voice-sample-processing-noise)**
-- Professionally recorded voice samples using a condenser microphone, processed using iZotope RX 11 + Logic Pro + multiple audio plugins
-- Before/After comparison demonstrating noise reduction while preserving natural and pleasing vocal tone
-- Successfully passed STT (Speech-to-Text) recognition accuracy test on processed samples
+**[Voice Recording, Mixing, Processing & Noise Reduction](https://youtube.com/playlist?list=PLSAMsMHjGEeM3vhpblLdEwDO5iGYOlkhx&si=Rw2UKe1J8QEfIJHY)**
+- Recorded and processed Korean guided meditation voice content using a condenser microphone
+- Applied noise reduction and vocal enhancement using iZotope RX 11, Logic Pro, and professional audio plugins while preserving natural vocal quality
+- Demonstrated before/after audio comparisons showcasing restoration and noise reduction
+- Processed samples demonstrated improved recognition accuracy in speech-to-text (STT) systems
 - Tools: Logic Pro X, iZotope RX 11, Waves Plugins, FabFilter Plugins
 
-🇰🇷 [Korean Voice Recording & Mixing — Meditation audio recording & production](https://youtube.com/playlist?list=PLSAMsMHjGEeM3vhpblLdEwDO5iGYOlkhx&si=Rw2UKe1J8QEfIJHY)
 
 ---
 
-**[Music Production & Mixing](https://youtube.com/playlist?list=PLSAMsMHjGEeP__YR53DjcZnFJgojvAG0F&si=Xa8qTpXcE0R--9KI)**
+**[Audio Production & Engineering](https://youtube.com/playlist?list=PLSAMsMHjGEeP__YR53DjcZnFJgojvAG0F&si=Xa8qTpXcE0R--9KI)**
 - Recording, mixing, mastering, orchestration, audio editing, and composition across commercial and original projects
 - Production work includes Disney — Big City Greens (music editing & orchestration, uncredited), Joachim Horsley (orchestration & audio editing), and original composition
 - Additional production credits: HBO "Gordita Chronicles", Warner Bros. "Batman: Soul of the Dragon", ABC "The Baker and the Beauty" 
-- Achievement: Reached iTunes World Music Chart No.2 / Netflix USA No.1 Show / Disney content streamed over 1 billion views
+- Selected Credits:
+• iTunes World Music Chart #2
+• Disney productions with over 1B total views
+• Netflix US #1 TV Series
 - Tools: Logic Pro, Pro Tools, Ableton Live, iZotope RX 11, Waves Plugins
 
 ---
